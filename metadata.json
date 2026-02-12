@@ -1,0 +1,5 @@
+{
+  "name": "Ultimate Tic-Tac-Toe",
+  "description": "A strategic depth version of Tic-Tac-Toe where you play on 9 nested boards. Win 3 small boards in a row to win the game.",
+  "requestFramePermissions": []
+}
